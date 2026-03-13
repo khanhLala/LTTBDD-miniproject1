@@ -1,4 +1,4 @@
-package com.example.myapplication.model;
+package com.example.lttbdd_miniproject1.model;
 
 import java.io.Serializable;
 
